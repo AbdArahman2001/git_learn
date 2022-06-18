@@ -1,1 +1,2 @@
-First Line in file1.txt -> githup repo
+First Line in file1.txt -> githup repo -> main branch
+Second Line in file1.txt -> githup repo -> main branch
